@@ -1,0 +1,76 @@
+body  {
+    background-color:#0077b3;
+    background-image: url('6ac2941e7c679b199083bdaa928e5907--pastels-pixel.jpg');
+    }
+p   {
+  font-family: "Helvetica", sans-serif;
+    color: #5729ce;
+}
+
+h1  {
+  color: #5729ce;
+  font-family: "Times New Roman", serif;
+}
+
+nav ul {
+    background-color: orange;
+   border-style: solid;
+   border-color: purple;
+   border-width: 5px;
+   padding: 10px;
+   border-radius: 20px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: Black;
+}
+nav ul li a {
+    text-decoration: none;
+}
+iframe {
+      background-color: orange;
+   border-style: solid;
+   border-color: purple;
+   border-width: 5px;
+   padding: 5px;
+   border-radius: 20px;
+}
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F5FFFA;
+  padding-bottom: 10px;
+}
+.stylishBox {
+  background-color: orange;
+  color: #A52A2A;
+  border-style: solid;
+  border-width: 5px;
+  border-color: purple;
+  border-radius: 10px;
+}
+.someSpacing {
+  padding: 10px;
+  margin-top: 20px;
+}
+.iMageBig {
+  padding: 10px;
+  margin-top: 20px;
+}
+#myCoolText {
+    color: #221C35;
+    border: 0px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#frontPage {
+    background: #48D1CC;
+    background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
+}
+#pic {
+  width: 40%;
+  border-radius: 5%;
+}
