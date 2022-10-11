@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hole in the wall</title>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <header>
+	    <nav>
+	      <ul>
+	      <li><a href="index.html">HUB</a></li>
+	      <li><a href="TGTTOTS.html">TGTTOTS</a></li>
+	      <li><a href="Sky_Battle.html">Sky Battle</a></li>
+	      <li><a href="Battle_Box.html">Battle Box</a></li>
+	      <li>Hole In The Wall</li>
+	      </ul>
+	      </nav>
+	  </header>
+	  <main>
+	    <article>
+	    <section class="stylishBox">
+	    <h1>Hole In The Wall</h1> 
+	    <p>The aim of the game is to remain the last team standing as large walls of slime converge on you from all directions!
+	    Jump and thread your way through the walls without being pushed off the platform.
+	    </p>
+	    <p>Over time, the speed of the walls will increase, as well as the platform beneath you decreasing in size!
+	    Coins are awarded every time a player falls and you’re still on the platform, with a big bonus if you survive an entire round.
+	    </p>
+	    </section>
+	    <section class="stylishBox someSpacing">
+	    <h1>Goal</h1>
+	    <p>Hole In The Wall is an obstacle-based parkour game with 3 rounds lasting 3 minutes each.
+	    In each round, contestants are spawned on a platform in the center of the map, and they must avoid being thrown off by incoming slime walls by jumping or walking through holes embedded within those walls.
+	    As the game progresses, the platform shrinks, and the walls arrive at increasingly rapid speeds with greater difficulty.
+	    </section>
+	    </p>
+	  </article>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/U-xahPQbsv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	  </main>
+	  <footer>
+	    
+	  </footer>
+	</body>
+</html>
